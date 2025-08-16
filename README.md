@@ -133,7 +133,7 @@ GhostCLI:
 
 ---
 
-## 👤 نویسنده
+## 👤 توسعه دهنده 
 
 ساخته شده با 💻 توسط **AmirRecon**
 [GitHub](https://github.com/amirrecon)
