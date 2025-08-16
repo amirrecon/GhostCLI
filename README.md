@@ -1,5 +1,5 @@
 
-````markdown
+
 # 👻 GhostCLI  
 
 **GhostCLI** یه ابزار خط فرمان (CLI) با حس‌و‌حال هکریه که بهت اجازه میده با مدل‌های OpenRouter (مثل GPT-4o) توی ترمینال چت کنی.  
@@ -138,7 +138,5 @@ GhostCLI:
 ساخته شده با 💻 توسط **AmirRecon**
 [GitHub](https://github.com/amirrecon)
 
-```
 
----
 
