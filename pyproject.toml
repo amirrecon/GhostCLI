@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ghostcli"
+version = "0.1.0"
+description = "👻 GhostCLI — Hacker Vibes OpenRouter Terminal Client"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "AmirRecon", email = "you@example.com" }]
+requires-python = ">=3.9"
+dependencies = ["requests==2.32.3"]
+
+[project.urls]
+Homepage = "https://github.com/amirrecon/GhostCLI"
+
+[project.scripts]
+ghostcli = "ghostcli.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
