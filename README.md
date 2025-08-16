@@ -1,4 +1,6 @@
-![Uploading image.png…]()
+<p align="center">
+  <img src="src/GhostCLI.png" alt="GhostCLI Logo" width="400"/>
+</p>
 
 
 # 👻 GhostCLI  
